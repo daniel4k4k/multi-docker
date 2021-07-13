@@ -21,6 +21,6 @@ after_success:
   - docker push daniel4k4k/multi-client-10-14
   - docker push daniel4k4k/multi-nginx-10-14
   - docker push daniel4k4k/multi-server-10-14
-  - docker push daniel4k4k/multi-worker-10-14.
+  - docker push daniel4k4k/multi-worker-10-14
 
 
